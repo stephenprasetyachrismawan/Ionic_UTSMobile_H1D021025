@@ -1,0 +1,7 @@
+{
+  "name": "keuangan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
